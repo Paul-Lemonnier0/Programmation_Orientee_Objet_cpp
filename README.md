@@ -1,6 +1,6 @@
 # TP Programmation Orientée Objet C++
 
-Ce répertoire contient une collection de travaux pratiques réalisés en utilisant le langage C++ avec Qtcreator. 
+Ce répertoire contient une collection de travaux pratiques réalisés en utilisant le langage C++ avec Qt creator. 
 
 ## Contenu
 
@@ -11,17 +11,15 @@ Ce répertoire contient une collection de travaux pratiques réalisés en utilis
 - [TP5](TP5/) : Pointeurs intelligents
 - [TP6](TP6/) : Exceptions
 - [TP7](TP7/) : C++ avancé
-- [TP8](TP8/) : Initiation à Qtcreator
+- [TP8](TP8/) : Initiation à Qt creator
 
 Dans chaque fichier de TP se trouve des implémentations des divers sujets et concepts important de la programmation orientée objet ainsi que de la programmation en C++.
 
 ## Utilisation
 
-Soit :
+Vous pouvez utiliser l'application Qt Creator pour ouvrir et exécuter chaque TP. 
 
-- L'application Qtcreator
-
-ou dans un terminal à la racine d'un dossier TP :
+Ou, dans un terminal à la racine d'un dossier TP, vous pouvez suivre ces étapes :
 
 ```
 mkdir build
